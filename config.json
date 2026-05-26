@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioncalidate",
+        "uuid": 4877466,
+        "checksum": "a6wjct"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
